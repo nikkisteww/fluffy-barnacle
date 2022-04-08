@@ -1,11 +1,4 @@
-<!DOCTYPE HTML>  
-<html>
-<head>
-<style>
-.error {color: #FF0000;}
-</style>
-</head>
-<body>  
+<!DOCTYPE HTML>   
 
 <?php
 // define variables and set to empty values
@@ -87,6 +80,3 @@ echo $comment;
 echo "<br>";
 echo $gender;
 ?>
-
-</body>
-</html
